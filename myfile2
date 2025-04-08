@@ -1,0 +1,3 @@
+echo "hello devarj"
+d= "im daredevil"
+echo "[d]"
